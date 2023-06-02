@@ -1,0 +1,40 @@
+#home {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	position:absolute;
+	flex-grow: 100;
+	height: 100%;
+	width: 100%;
+	top:0;
+	left: 0;
+	z-index: -999;
+
+	.waitforit {
+		font: {
+			family: "Courier New", monospace;
+			style: italic;
+			size: 4em;
+		}
+		text-align:center;
+	}
+
+	.cover {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		display:flex;
+	}
+
+	#skull {
+		z-index: -9999;
+		// position:absolute;
+		width: 100%;
+		height:auto;
+		margin:auto;
+
+	}
+}
