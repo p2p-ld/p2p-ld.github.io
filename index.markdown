@@ -7,7 +7,7 @@ title: Institute of Pirate Technology
 ---
 
 <div class="waitforit">
-(coming soon)
+online and online accessories
 </div>
 
 <div class="cover">

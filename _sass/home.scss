@@ -42,6 +42,7 @@
 			left: auto;
 			right: auto;
 		}
-		object-fit: contain;
+		object-fit: cover;
+		max-width: 100%;
 	}
 }
